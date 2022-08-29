@@ -16,6 +16,7 @@
 </p>
 
 ### Myaw.
+<img src="https://anlucas.neocities.org/gobpawed.gif"/>&nbsp;&nbsp;
 
 - Lua lunatic
 - Lover of kitsunes
